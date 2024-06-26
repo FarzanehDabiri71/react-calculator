@@ -1,9 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-
+import "./styles.css"
 function App() {
-  const numbers = [1,2,3,4,5,6,7,8,9]
-  const operators = ["+","-","*","÷"]
+  
   return (
     <div className="calculator-grid">
       <div className="output">
