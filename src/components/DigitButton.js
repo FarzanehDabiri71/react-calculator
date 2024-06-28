@@ -1,5 +1,6 @@
 import React from "react";
 import { ACTIONS } from "../App";
+import '../styles.css'
 const DigitButton = ({ dispatch, digit }) => {
   return (
     <button
